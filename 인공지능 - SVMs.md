@@ -172,7 +172,9 @@ https://www.csie.ntu.edu.tw/~cjlin/libsvm/index.html
 
 [SVM Lib 클릭](https://www.csie.ntu.edu.tw/~cjlin/libsvm/index.html)
 
+---
 
+[svm 보충자료](https://bskyvision.com/163)
 
 
 
