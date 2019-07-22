@@ -16,7 +16,7 @@
 - `H(x)-y` 식을 이용할 경우 음수가 나올 수 있으므로 이 식의 제곱을 사용한다.
 - 제곱을 취하기 때문에 거리가 멀수록 패널티가 커진다.
 
-![이미지]https://postfiles.pstatic.net/MjAxODA1MjdfMTE0/MDAxNTI3MzYwNTAyOTMy.ydkD5nu8tx-ZNNEjQe5Zh5P9YfK1humDws32J_TycVcg.d162Y-NUZDjgCqzo_enGliuk4rBxbFfg8yYH5Meutxwg.PNG.lyshyn/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2018-05-27_%EC%98%A4%EC%A0%84_3.37.36.png?type=w2)
+![이미지](https://postfiles.pstatic.net/MjAxODA1MjdfMTE0/MDAxNTI3MzYwNTAyOTMy.ydkD5nu8tx-ZNNEjQe5Zh5P9YfK1humDws32J_TycVcg.d162Y-NUZDjgCqzo_enGliuk4rBxbFfg8yYH5Meutxwg.PNG.lyshyn/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2018-05-27_%EC%98%A4%EC%A0%84_3.37.36.png?type=w2)
 
 **cost function**을 최소화하는 방법 중 하나가 **gradient descent(경사하강법)** 이다.
 w값에 따라 계속 변하는 cost값은 아래와 같은 함수 형태로 나타낼 수 있다.
