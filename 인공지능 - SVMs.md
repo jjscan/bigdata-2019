@@ -5,7 +5,17 @@
 - 보충 : Logistic regression + gradient descent
 ```
 
+
 - SVM은 Logistic Regression, Neural Network, Bayes classifier 같은 선형분류(Linear classifier, 초평면(hyperplane)을 이용하는 분류기)들 중에 하나이다.
+- 분류에는 여러가지 알고르즘이 있다.
+1. 퍼셉트론
+2. 로지스틱 회귀
+3. 서포트 벡터 머신
+4. 신경망
+5. K-NN(최근접이웃)
+6. 결정 트리
+
+---
 
 - 초평면(hyperplane)이란,  주위 공간보다 한 차원 작은 부분 공간이다.
 즉, N차원의 공간에서의 hyperplane은 N-1차원의 subspace를 의미힌다.
