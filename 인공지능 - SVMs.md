@@ -158,7 +158,19 @@ VC Dimension이 높으면 분류를 잘해서 좋은 성능을 낼 것이라고 
 
 ---
 
+장 많이 사용되는 SVM 알고리즘으로는 LIBSVM(A Library for Support Vector Machines)이 있으며, 개발 언어는 C/C++으로 개발되었습니다.
 
+언어는 C/C++으로 개발되었지만 Java, R, Matlab(Octave), Python 등 다양한 언어에서 사용될 수 있도록 인터페이스가 함께 개발되어 제공되고 있으므로 원하시는 언어로 개발을 하시면 됩니다.
+
+아래의 페이지에 접속 하시면 SVM 라이브러리에 대한 소개가 있습니다.
+
+https://www.csie.ntu.edu.tw/~cjlin/libsvm/index.html
+
+페이지 중간 쯔음에 그래픽 인터페이스를 제공하여, 직접 데이터를 입력하여 SVM 알고리즘의 기능을 테스트 해보실 수 있습니다.
+
+테스트는 2가지 형태의 데이터를 나눠서 입력하여 어떻게 SVM에서 분류를 할 수 있는지 확인해 보도록 하겠습니다.
+
+[SVM Lib 클릭](https://www.csie.ntu.edu.tw/~cjlin/libsvm/index.html)
 
 
 
